@@ -6,6 +6,7 @@ require (
 	github.com/ErikDubbelboer/gspt v0.0.0-20180711091504-e39e726e09cc
 	github.com/aws/aws-sdk-go v0.0.0-20180831223016-2a4034064ca5
 	github.com/buildkite/bintest v0.0.0-20190227031731-820c89d3b3a0
+	github.com/buildkite/conditional v0.0.0-20190617003428-af638d0b1550
 	github.com/buildkite/interpolate v0.0.0-20171114090218-3a807e47135c
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000
 	github.com/buildkite/yaml v0.0.0-20181016232759-0caa5f0796e3
